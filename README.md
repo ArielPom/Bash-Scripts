@@ -2,7 +2,7 @@
 Different Bash Scripts for WEB scraping and Program Running
 
 
-##Stock Follower
+## Stock Follower
 Stock_Follower is a bash script aimed to send the user an EMAIL every time a requested stock has gone down or up by 5%.
 User must create a text file names “symbols.txt” which obtains all of the stocks symbols he wishes to follow, each symbol in its own line.
 Stock_Follower is using YAHOO-FINANCE API for recieving stocks information.
